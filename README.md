@@ -27,3 +27,6 @@
 
 "The Truth About Cyber Security" - [Brandon Krieger](https://www.linkedin.com/in/brandonkrieger/)
 
+|Stream|Description|
+|-------|------------------------|
+|[Click Here](https://www.twitch.tv/videos/944612356?filter=archives&sort=time)|AMA w/Brandon|
