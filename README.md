@@ -8,7 +8,7 @@
 
 |Speaker|Description|Social|
 |-------|-----------------|-------|
-|[Ryan Rutan](https://www.twitch.tv/videos/942355203?filter=archives&sort=time)| Red Team Chat - Synack Interview|[](https://www.ryanrutan.com/)|
+|[Ryan Rutan](https://www.twitch.tv/videos/942355203?filter=archives&sort=time)| Red Team Chat - Synack Interview|[Ryan's Website](https://www.ryanrutan.com/)|
 |
 
 ####  DailyCyberLive w/Brandon
