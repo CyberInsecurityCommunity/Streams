@@ -8,6 +8,7 @@
 
 |Speaker|Description|Social|
 |-------|-----------------|-------|
+|[Ryan Rutan](https://www.twitch.tv/videos/942355203?filter=archives&sort=time)| Red Team Chat - Synack Interview|[Ryan's Website](https://www.ryanrutan.com/)|
 
 
 **"Old Guy" Wednesday**
@@ -19,14 +20,7 @@
 ### Tipsy Cyber w/SecITGuy aka Jack
 |Stream|Description|#|
 |----|-----------|------------|
-|
 |[Click Here](https://www.twitch.tv/videos/947167840?filter=archives&sort=time)|Windows Exchange Ransomware : Blue Team Tools, News, and AMA |Ep. 7|
-
-
-
-
-
-|[Ryan Rutan](https://www.twitch.tv/videos/942355203?filter=archives&sort=time)| Red Team Chat - Synack Interview|[Ryan's Website](https://www.ryanrutan.com/)|
 
 
 ####  DailyCyberLive w/Brandon
