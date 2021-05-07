@@ -12,9 +12,9 @@
 
 **"Old Guy" Wednesday**
 |Stream|Speakers|Description|
-|--------|--------------------|
+|--------|--------------------|-------|
 |[Click Here](https://www.twitch.tv/videos/944736331?filter=archives&sort=time)|Rick Mcelroy, Jeff Golz, Neal Bridges|Hacker Threat Discussion - Special Guest|
-|
+
 
 ### Tipsy Cyber w/SecITGuy aka Jack
 |Stream|Description|#|
