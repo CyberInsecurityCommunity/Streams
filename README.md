@@ -1,2 +1,7 @@
 # Streams
-Past and Present Broadcasts are located here
+
+"**Real** conversations with **real** people" - [Neal Bridges](https://www.linkedin.com/in/nealbridges)
+
+### Monday, Wednesday and Friday Streams
+
+
