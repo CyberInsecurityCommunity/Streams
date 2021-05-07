@@ -2,15 +2,15 @@
 
 "**Real** conversations with **real** people" - [Neal Bridges](https://www.linkedin.com/in/nealbridges)
 
+*Note: Most recent streams are at the top 
+
 ### Cyber Insecurity Prime Time w/Neal
 
-|Speaker| Description|
-|-------|-----------------|
-|[Ryan Rutan](https://www.ryanrutan.com/)| Red Team Chat - Synack Interview|
+|Stream|Speaker|Description|
+|-------|-----------------|------------|
+| [Ryan Rutan](https://www.twitch.tv/videos/942355203?filter=archives&sort=time)|[Social](https://www.ryanrutan.com/)| Red Team Chat - Synack Interview|
 |
 
 ####  DailyCyberLive w/Brandon
-*Most recent streams are at the top 
-
 |
 
