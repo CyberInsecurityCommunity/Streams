@@ -23,7 +23,7 @@
 
 ### DailyCyberLive w/Brandon
 
-"The Truth About Cyber Security" - [Brandon Krieger](https://www.linkedin.com/in/brandonkrieger/)
+`"The Truth About Cyber Security"` - [Brandon Krieger](https://www.linkedin.com/in/brandonkrieger/)
 
 |Stream|Description|
 |-------|------------------------|
