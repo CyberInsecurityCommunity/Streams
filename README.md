@@ -8,7 +8,7 @@
 
 |Stream|Speaker|Description|
 |-------|-----------------|------|
-|[Stream](https://www.twitch.tv/videos/942355203?filter=archives&sort=time)|[Ryan Rutan](https://www.twitch.tv/videos/942355203?filter=archives&sort=time)| Red Team Chat - Synack Interview|
+|[Click Here](https://www.twitch.tv/videos/942355203?filter=archives&sort=time)|[Ryan Rutan](https://www.twitch.tv/videos/942355203?filter=archives&sort=time)| Red Team Chat - Synack Interview|
 
 
 **"Old Guy" Wednesday**
