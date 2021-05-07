@@ -8,18 +8,19 @@
 
 |Speaker|Description|Social|
 |-------|-----------------|-------|
-|       |Hacker Threat Discussion - Special Guest|
+
 
 **"Old Guy" Wednesday**
-|Speakers|Description|
+|Stream|Speakers|Description|
 |--------|--------------------|
-|Rick Mcelroy, Jeff Golz, Neal Bridges|Hacker Threat Discussion - Special Guest|
+|[Click Here](https://www.twitch.tv/videos/944736331?filter=archives&sort=time)|Rick Mcelroy, Jeff Golz, Neal Bridges|Hacker Threat Discussion - Special Guest|
 |
 
 ### Tipsy Cyber w/SecITGuy aka Jack
-|....|Description|#|
+|Stream|Description|#|
 |----|-----------|------------|
-|[Stream](https://www.twitch.tv/videos/947167840?filter=archives&sort=time)|Windows Exchange Ransomware : Blue Team Tools, News, and AMA |Ep. 7|
+|
+|[Click Here](https://www.twitch.tv/videos/947167840?filter=archives&sort=time)|Windows Exchange Ransomware : Blue Team Tools, News, and AMA |Ep. 7|
 
 
 
