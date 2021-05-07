@@ -23,7 +23,7 @@
 |[Click Here](https://www.twitch.tv/videos/947167840?filter=archives&sort=time)|Windows Exchange Ransomware : Blue Team Tools, News, and AMA |Ep. 7|
 
 
-####  DailyCyberLive w/Brandon
+### DailyCyberLive w/Brandon
 
 "The Truth About Cyber Security" - [Brandon Krieger](https://www.linkedin.com/in/brandonkrieger/)
 
