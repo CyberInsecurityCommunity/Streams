@@ -6,9 +6,9 @@
 
 ### Cyber Insecurity Prime Time w/Neal
 
-|Speaker|Description|
-|-------|-----------------|
-|[Ryan Rutan](https://www.twitch.tv/videos/942355203?filter=archives&sort=time)| Red Team Chat - Synack Interview|
+|Stream|Speaker|Description|
+|-------|-----------------|------|
+|[Stream](https://www.twitch.tv/videos/942355203?filter=archives&sort=time)|[Ryan Rutan](https://www.twitch.tv/videos/942355203?filter=archives&sort=time)| Red Team Chat - Synack Interview|
 
 
 **"Old Guy" Wednesday**
