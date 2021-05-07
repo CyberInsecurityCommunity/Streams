@@ -1,6 +1,6 @@
 # Streams
 
-`"**Real** conversations with **real** people"` - [Neal Bridges](https://www.linkedin.com/in/nealbridges)
+`"Real conversations with real people"` - [Neal Bridges](https://www.linkedin.com/in/nealbridges)
 
 ### Cyber Insecurity Prime Time w/Neal
 
